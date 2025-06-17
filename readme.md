@@ -1,6 +1,6 @@
 # 🛰️ Adversarial Training of CNN for Aerial Imagery Object Detection
 
-By:  Jannat Lnu, Jimmy Le, Luke Unterman,My Nguyen 
+By:  Jannat , Jimmy Le, Luke Unterman,My Nguyen 
 Course Project | Spring 2025
 
 ## 📌 Overview
